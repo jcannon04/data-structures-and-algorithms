@@ -1,3 +1,8 @@
 {
-    "prettier.singleQuote": true
+    "prettier.singleQuote": true,
+    "cSpell.enableFiletypes": [
+        "!javascript",
+        "!javascriptreact",
+        "!markdown-math"
+    ]
 }
